@@ -1,0 +1,15 @@
+{
+  "name": "antonio",
+  "version": "1.0.0",
+  "description": "Antonio Marino, contact info",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Antonio Marino",
+  "license": "ISC"
+}
